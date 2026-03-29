@@ -100,8 +100,8 @@ Memory Expansions and AY/TS
   
 Подготовка моей версии [Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k) сводится к правильной установки перемычек JP5-JP11 (подписано на шёлке)
   
-![]()
+![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Mod%20128k/J5-J9.png)
   
-![]()
+![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Mod%20128k/J10-J11.png)
   
-Для других версий можно братьтся к [описанию]()
+Для других версий можно обратьтся к [описанию](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Mod%20128k/README.md)
