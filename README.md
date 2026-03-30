@@ -44,55 +44,55 @@ Memory Expansions and AY/TS
 # Leningrad 2 Expansions 128k and AY-3-8910 (YM2149F)
   
   
-[Схема](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20AY%20128k/Leningrad%202%20Ext%20AY%20128k.pdf) [Монтаж](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20AY%20128k/Leningrad%202%20Ext%20AY%20128k.html) [Gerber](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20AY%20128k/Leningrad%202%20Ext%20AY%20128k%20gerber.zip)
+[Схема](Ext%20AY%20128k/Leningrad%202%20Ext%20AY%20128k.pdf) [Монтаж](Ext%20AY%20128k/Leningrad%202%20Ext%20AY%20128k.html) [Gerber](Ext%20AY%20128k/Leningrad%202%20Ext%20AY%20128k%20gerber.zip)
   
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20AY%20128k/Ext%20AY%20128k%20PCB.png)
+![](Ext%20AY%20128k/Ext%20AY%20128k%20PCB.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20AY%20128k/Ext%20AY%20128k.png)
+![](Ext%20AY%20128k/Ext%20AY%20128k.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20AY%20128k/Ext%20AY%20128k.jpg)
+![](Ext%20AY%20128k/Ext%20AY%20128k.jpg)
   
   
 # Leningrad 2 Expansions 128k and Turbo Sound 2x YM2149F (AY-3-8910)
   
   
-[Схема](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20128k/Leningrad%202%20Ext%20TS%20128k.pdf) [Монтаж](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20128k/Leningrad%202%20Ext%20TS%20128k.html) [Gerber](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20128k/Leningrad%202%20Ext%20TS%20128k%20Gerber.zip)
+[Схема](Ext%20TS%20128k/Leningrad%202%20Ext%20TS%20128k.pdf) [Монтаж](Ext%20TS%20128k/Leningrad%202%20Ext%20TS%20128k.html) [Gerber](Ext%20TS%20128k/Leningrad%202%20Ext%20TS%20128k%20Gerber.zip)
   
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20128k/Ext%20TS%20128k%20PCB.png)
+![](Ext%20TS%20128k/Ext%20TS%20128k%20PCB.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20128k/Ext%20TS%20128k.png)
+![](Ext%20TS%20128k/Ext%20TS%20128k.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20128k/Ext%20TS%20128k.jpg)
+![](Ext%20TS%20128k/Ext%20TS%20128k.jpg)
   
   
 # Leningrad 2 Expansions 256k and Turbo Sound 2x YM2149F (AY-3-8910)
   
   
-[Схема](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20256k/Leningrad%202%20Ext%20TS%20256k.pdf) [Монтаж](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20256k/Leningrad%202%20Ext%20TS%20256k.html) [Gerber](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20256k/Leningrad%202%20Ext%20TS%20256k%20Gerber.zip)
+[Схема](Ext%20TS%20256k/Leningrad%202%20Ext%20TS%20256k.pdf) [Монтаж](Ext%20TS%20256k/Leningrad%202%20Ext%20TS%20256k.html) [Gerber](Ext%20TS%20256k/Leningrad%202%20Ext%20TS%20256k%20Gerber.zip)
   
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20256k/Ext%20TS%20256k%20PCB.png)
+![](Ext%20TS%20256k/Ext%20TS%20256k%20PCB.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20256k/Ext%20TS%20256k.png)
+![](Ext%20TS%20256k/Ext%20TS%20256k.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Ext%20TS%20256k/Ext%20TS%20256k.jpg)
+![](Ext%20TS%20256k/Ext%20TS%20256k.jpg)
   
   
 # RAM Plug-in Board 2x64
   
   
-[Схема](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/RAM%202x64/Leningrad%202%20RAM%202x64.pdf) [Монтаж](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/RAM%202x64/Leningrad%202%20RAM%202x64.html) [Gerber](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/RAM%202x64/L2\_RAM\_128k\_gerber.zip)
+[Схема](RAM%202x64/Leningrad%202%20RAM%202x64.pdf) [Монтаж](RAM%202x64/Leningrad%202%20RAM%202x64.html) [Gerber](RAM%202x64/L2\_RAM\_128k\_gerber.zip)
   
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/RAM%202x64/RAM%202x64%20PCB.png)
+![](RAM%202x64/RAM%202x64%20PCB.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/RAM%202x64/RAM%202x64.png)
+![](RAM%202x64/RAM%202x64.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/RAM%202x64/RAM%202x64%20Top.jpg)
+![](RAM%202x64/RAM%202x64%20Top.jpg)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/RAM%202x64/RAM%202x64%20Bottom.jpg)
+![](RAM%202x64/RAM%202x64%20Bottom.jpg)
   
   
 # Подготовка основной платы Ленинграда 2
@@ -100,8 +100,8 @@ Memory Expansions and AY/TS
   
 Подготовка моей версии [Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k) сводится к правильной установки перемычек JP5-JP11 (подписано на шёлке)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Mod%20128k/J5-J9.png)
+![](Mod%20128k/J5-J9.png)
   
-![](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Mod%20128k/J10-J11.png)
+![](Mod%20128k/J10-J11.png)
   
-Для других версий можно обратьтся к [описанию](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit/blob/main/Mod%20128k/README.md)
+Для других версий можно обратьтся к [описанию](Mod%20128k/README.md)
