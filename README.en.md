@@ -28,7 +28,7 @@ The boards are designed with a primary goal: minimizing messy wire-wrap modifica
 The upgrade boards feature a **Bus Through-port** design. They plug directly into the main system connector of the Leningrad-2, while providing an identical expansion slot connector on top.
 
 *   **Plug-and-Play:** This allows you to stack other peripherals—like BDI (TR-DOS) or DivMMC controllers—directly on top of this expansion board without using flat ribbon cables.
-*   **Motherboard Integration:** Optimized for seamless operation with my custom version of the Leningrad-2-48k. 
+*   **Motherboard Integration:** Optimized for seamless operation with my custom version of the [Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k). 
 *   **Universal Compatibility:** The board can also be wired to any standard vintage or third-party version of the Leningrad-2. In this case, you will only need to manually route a few core control signals according to the provided schematic.
 
 ***
@@ -47,28 +47,28 @@ As an alternative to chip stacking ("piggybacking"), this project includes a spe
 ## 🛠️ Project Modules
 
 ### 1. Leningrad 2 Expansion 128k & AY-3-8910 (YM2149F)
-*   [Schematics](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit) | [Placement](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit) | [Gerber Files](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit)
+*   [Schematics](Ext%20AY%20128k/Leningrad%202%20Ext%20AY%20128k.pdf) | [Placement](Ext%20AY%20128k/Leningrad%202%20Ext%20AY%20128k.html) | [Gerber Files](Ext%20AY%20128k/Leningrad%202%20Ext%20AY%20128k%20gerber.zip)
 
 ### 2. Leningrad 2 Expansion 128k & Turbo Sound 2x YM2149F (AY-3-8910)
-*   [Schematics](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit) | [Placement](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit) | [Gerber Files](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit)
+*   [Schematics](Ext%20TS%20128k/Leningrad%202%20Ext%20TS%20128k.pdf) | [Placement](Ext%20TS%20128k/Leningrad%202%20Ext%20TS%20128k.html) | [Gerber Files](Ext%20TS%20128k/Leningrad%202%20Ext%20TS%20128k%20Gerber.zip)
 
 ### 3. Leningrad 2 Expansion 256k & Turbo Sound 2x YM2149F (AY-3-8910)
-*   [Schematics](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit) | [Placement](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit) | [Gerber Files](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit)
+*   [Schematics](Ext%20TS%20256k/Leningrad%202%20Ext%20TS%20256k.pdf) | [Placement](Ext%20TS%20256k/Leningrad%202%20Ext%20TS%20256k.html) | [Gerber Files](Ext%20TS%20256k/Leningrad%202%20Ext%20TS%20256k%20Gerber.zip)
 
 ### 4. RAM Plug-in Board 2x64
-*   [Schematics](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit) | [Placement](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit) | [Gerber Files](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit)
+*   [Schematics](RAM%202x64/Leningrad%202%20RAM%202x64.pdf) | [Placement](RAM%202x64/Leningrad%202%20RAM%202x64.html) | [Gerber Files](RAM%202x64/L2\_RAM\_128k\_gerber.zip)
 
 ---
 
 ## 🔧 Mainboard Preparation
 
-*   **For my custom Leningrad-2-48k revision:** Preparation is as simple as configuring the onboard jumpers **JP5 to JP11** (clearly labeled on the PCB silkscreen).
-*   **For stock/vintage motherboards:** Please consult the descriptive documentation and schematics provided in this repository to properly tap the missing address lines.
+*   **For my custom [Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k) revision:** Preparation is as simple as configuring the onboard jumpers **JP5 to JP11** (clearly labeled on the PCB silkscreen).
+*   **For stock/vintage motherboards:** Please consult the descriptive documentation and schematics provided in this repository to properly tap the missing address lines. [here](Mod%20128k/README.md)
 
 ---
 
 ## 💾 Memory Testing Software
 
 To verify your new memory configuration, you can use the following diagnostic tools included in the repository:
-*   **GTEST**
-*   **HFT**
+*[GTEST](Mod%20128k/GTEST1_0.ZIP)  
+*[HFT](Mod%20128k/HFT1_02.ZIP) 
