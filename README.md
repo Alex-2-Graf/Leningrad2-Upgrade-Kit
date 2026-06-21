@@ -2,6 +2,8 @@
   
 Memory Expansions and AY/TS  
   
+> [English](README.en.md) | [Русский](README.md)  
+  
 ## 🧠 Контроллер расширения памяти и звука (128K/256K + AY/TurboSound)  
   
 Данный репозиторий содержит проекты плат расширения оперативной памяти для компьютера Leningrad-2.  
