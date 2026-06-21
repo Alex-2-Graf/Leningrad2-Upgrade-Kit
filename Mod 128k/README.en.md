@@ -2,11 +2,7 @@
 
 &#x20; 
 
-\# Leningrad-2 128K Modification Guide (Classic Piggyback Method)
-
-
-
-> \[English](README.md) | \[Русский](README.ru.md)
+# Leningrad-2 128K Modification Guide (Classic Piggyback Method)
 
 
 
@@ -14,15 +10,15 @@ This modification allows the stock Leningrad-2 computer to run any official soft
 
 
 
-\## Required Components
+## Required Components
 
 
 
 In addition to the components specified in the main schematic, you will need:
 
-\*   \*\*8x KR565RU5 (КР565РУ5 / 4164)\*\* DRAM chips. \*Crucial:\* They must have the exact same speed/letter suffix rating as the chips already installed on your motherboard.
+*   \*\*8x KR565RU5 (КР565РУ5 / 4164)\*\* DRAM chips. \*Crucial:\* They must have the exact same speed/letter suffix rating as the chips already installed on your motherboard.
 
-\*   \*\*1x 27256\*\* EPROM chip flashed with the official Spectrum 128K firmware.
+*   \*\*1x 27256\*\* EPROM chip flashed with the official Spectrum 128K firmware.
 
 
 
@@ -30,7 +26,7 @@ In addition to the components specified in the main schematic, you will need:
 
 
 
-\## Step-by-Step Assembly
+## Step-by-Step Assembly
 
 
 
@@ -50,11 +46,11 @@ In addition to the components specified in the main schematic, you will need:
 
 
 
-\---
+---
 
 
 
-\## Tuning \& Calibration
+## Tuning \& Calibration
 
 
 
