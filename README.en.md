@@ -69,6 +69,7 @@ As an alternative to chip stacking ("piggybacking"), this project includes a spe
 
 ## 💾 Memory Testing Software
 
-To verify your new memory configuration, you can use the following diagnostic tools included in the repository:
+To verify your new memory configuration, you can use the following diagnostic tools included in the repository:  
+  
 *[GTEST](Mod%20128k/GTEST1_0.ZIP)  
 *[HFT](Mod%20128k/HFT1_02.ZIP) 
