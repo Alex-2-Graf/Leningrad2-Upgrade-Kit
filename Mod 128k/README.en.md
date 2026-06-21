@@ -19,7 +19,7 @@ In addition to the components specified in the main schematic, you will need:
 
 
 
-\---
+---
 
 
 
