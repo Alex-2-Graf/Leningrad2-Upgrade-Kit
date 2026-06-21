@@ -1,9 +1,6 @@
 > [English](README.en.md) | [Русский](README.md)  
-
-&#x20; 
-
+  
 # Leningrad-2 128K Modification Guide (Classic Piggyback Method)
-
 
 
 This modification allows the stock Leningrad-2 computer to run any official software and games designed for both the \*\*Spectrum 128K\*\* and \*\*Spectrum 48K\*\* models.
